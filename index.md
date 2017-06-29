@@ -1,4 +1,4 @@
-## Super Gender Land 97'
+## Super Gender Land '97
 
 You can use the [editor on GitHub](https://github.com/super-gender-land-97/super-gender-land-97.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
